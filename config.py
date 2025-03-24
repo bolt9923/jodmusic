@@ -46,7 +46,7 @@ SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+CxFIDFtpAsAwZTVl")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://t.me/the_friends_junction")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://github.com/bolt9923/jodmusic")
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
